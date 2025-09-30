@@ -1,0 +1,23 @@
+# Ignore YOLO outputs
+runs/
+*.pt
+*.onnx
+*.engine
+*.mlmodel
+*.tflite
+
+# Ignore data
+data/
+!data/.gitkeep  
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+.env
