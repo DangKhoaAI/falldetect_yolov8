@@ -3,7 +3,7 @@
 This project implements a fall detection system using YOLOv8, fine-tuned on custom datasets.
 
 ## Project Structure
-
+```
 fall-detection-yolov8/
 ├── data/ # dataset 
 ├── configs/ # file cấu hình (dataset, train hyperparams)
@@ -13,8 +13,7 @@ fall-detection-yolov8/
 ├── requirements.txt # dependencies
 ├── README.md # giới thiệu
 └── .gitignore # ignore các file không cần push
-
-
+```
 ## Quick Start
 
 ### Install
