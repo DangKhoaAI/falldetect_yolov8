@@ -1,6 +1,5 @@
 # Ignore YOLO outputs
 runs/
-*.pt
 *.onnx
 *.engine
 *.mlmodel
